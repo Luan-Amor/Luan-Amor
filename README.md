@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ativu
+- 🔭 I’m currently working on [Ativu](https://www.ativu.com.br/)
 - 🌱 I’m currently learning Java and Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Ativu
-- 🌱 I’m currently learning java and Javascript
+- 🌱 I’m currently learning java and javascript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luan-amor-20a4a7153/)
