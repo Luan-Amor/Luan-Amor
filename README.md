@@ -1,7 +1,5 @@
 ## Hello, I'm Luan Amor! 👋
 
-[![HitCount](http://hits.dwyl.com/Luan-Amor/Luan-Amor.svg)](http://hits.dwyl.com/Luan-Amor/Luan-Amor)
-
 <!--
 **Luan-Amor/Luan-Amor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Basis](https://www.basis.com.br/)
+- 🔭 I’m currently working on [Matera](https://www.matera.com/en/)
 - 🌱 I’m currently learning java and javascript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luan-amor-20a4a7153/)
+
+```
+  system.out.println("Hello World!");
+```
